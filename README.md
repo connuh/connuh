@@ -8,6 +8,7 @@
 ### Projects
 - ❇️ [Shodan Scraper](https://github.com/connuh/shodan-scraper) - scrapes ip's from shodan
 - 🔰 [PSN Checker](https://github.com/connuh/psn-checker) - checks a list of psn usernames
+- 🚀 [AIO Checker](https://github.com/connuh/aio-checker) - checks a list of usernames against specific sites (adding more soon)
 
 ### Goals
 - 🙈 Improve w/ frontend design

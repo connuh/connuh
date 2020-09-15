@@ -10,6 +10,7 @@
 - 🔰 [PSN Checker](https://github.com/connuh/psn-checker) - checks a list of psn usernames
 - 🚀 [AIO Checker](https://github.com/connuh/aio-checker) - checks a list of usernames against specific sites (adding more soon)
 - ⚡ [DIR Faster](https://github.com/connuh/dirfaster) - checks a wordlist against a website to find directories
+- 🦕 [DIR Faster (deno)](https://github.com/connuh/dirfaster-deno) - checks a wordlist against a website to find directories (in deno)
 
 ### Goals
 - 🙈 Improve w/ frontend design

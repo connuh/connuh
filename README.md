@@ -4,6 +4,7 @@
 ### Langages
 - 🌍 Node.js
 - 🦖 Deno
+- ⚡ V
 
 ### Projects
 - ❇️ [Shodan Scraper](https://github.com/connuh/shodan-scraper) - scrapes ip's from shodan

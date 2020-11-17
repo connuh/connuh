@@ -22,4 +22,3 @@
 ### Links
 - 🐦 [Twitter](https://twitter.com/c2nner)
 - 🐧 [GitHub](https://github.com/connuh)
-- 👾 Discord: cnr#5000

@@ -14,6 +14,7 @@
 - [MongoDB](https://www.mongodb.com) — MongoDB is the most popular database among modern websites, it uses BSON.
 - [MySQL](https://www.mysql.com) — MySQL is the worlds most popular open source database.
 - [Discord.js](https://discord.js.org) — Discord.js is a wrapper for Discord written in Node.js
+- [Cheerio](https://github.com/cheeriojs/cheerio) — Cheerio is a server-side JQuery which can be used for HTML generation or Web Scraping
 ---
 ### Statistics 📈
 <p align="center">

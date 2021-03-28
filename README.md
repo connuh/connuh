@@ -1,5 +1,5 @@
 # Howdy 👋
-### My name is Conner, I am a 15 year old Software Engineer / Web Developer
+### My name is Conner, I am a 16 (🎉) year old Software Engineer / Web Developer
 ![](https://komarev.com/ghpvc/?username=connuh&color=blueviolet)
 ---
 ### Languages / Technology 🌎

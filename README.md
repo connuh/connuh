@@ -17,7 +17,7 @@
 - [Cheerio](https://github.com/cheeriojs/cheerio) — Cheerio is a server-side JQuery which can be used for HTML generation or Web Scraping
 ---
 ### Contact 📧
-- 📧 E-Mail — conner@crime.cx / conner@courvix.com
+- 📧 E-Mail — c@terrori.sm / c@raci.sm
 ### Statistics 📈
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=connuh&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">

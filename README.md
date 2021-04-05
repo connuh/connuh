@@ -2,7 +2,7 @@
 ### My name is Conner, I am a 16 year old Software Engineer / Web Developer
 ![](https://komarev.com/ghpvc/?username=connuh&color=blueviolet)
 ---
-### Languages / Technology 🌎
+### Languages / Technologies 🌎
 #### Languages:
 - 🌎 [Node.js](https://nodejs.org) — Node.js is a JavaScript runtime built ontop of the V8 engine.
 - 🦕 [Deno](https://deno.land) — Deno is a secure JavaScript / TypeScript runtime built on Rust.

@@ -18,6 +18,7 @@
 ---
 ### Contact 📧
 - 📧 E-Mail — c@terrori.sm / c@raci.sm
+- 🐦Twitter — [@c2nner](https://twitter.com/c2nner)
 ---
 ### Projects 🖥️
 > Here is a list of things I have helped with in some way / shape or form.

@@ -8,7 +8,7 @@
 - 🦕 [Deno](https://deno.land) — Deno is a secure JavaScript / TypeScript runtime built on Rust.
 - ⚡ [V Lang](https://vlang.io) — V is a simple but safe and fast compiled language with a go-like syntax.
 #### Technologies: 
-- [Next.js](https://nextjs.org) — Next.js ia a react framework that is production ready.
+- [Next.js](https://nextjs.org) — Next.js is a react framework that is production ready.
 - [Nuxt.js](https://nuxtjs.org) — "The Intuitive Vue Framework" (as seen on their website)
 - [Express](https://expressjs.com) — Express.js is a Node.js web server with good performance and nice routing capabilities.
 - [MongoDB](https://www.mongodb.com) — MongoDB is the most popular database among modern websites, it uses BSON.

@@ -26,7 +26,7 @@
 > pays.host was an amazing thing for my Development career, although I didn't do much I learnt a hell of a lot and I highly reccomend them.
 - [Courvix](https://courvix.com/bpf.php) — Courvix is a network of <strong>FREE</strong> Internet services. Currently they offer webmail and a VPN.
 > Designing the BPF page for Courvix.com was a really nice excercise to help further my Web Design skills. 
-- [Attack Detection](https://github.com/connuh/attack-detection) — This is a fullstack Web Application that detects bad traffic, automatically analyzes the packets and spits out potentially methods based on signatures. (I never got around to implementing the client, this is incomplete)
+- [Attack Detection](https://github.com/connuh/attack-detection) — This is a fullstack Web Application that detects bad traffic, automatically analyzes the packets and spits out potentially methods based on signatures.
 > This project helped me alot due to the fact that I was learning more about frontend frameworks (specifically [Nuxt](https://nuxtjs.org)) and client implementation
 - [Cat](https://github.com/connuh/cat) — This is an API wrapper for [TheCatAPI](https://thecatapi.com), this was to further my knowledge with Deno and API Wrappers.
 ---
